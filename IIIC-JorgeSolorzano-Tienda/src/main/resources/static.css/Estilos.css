@@ -1,0 +1,14 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+
+header{
+    position: fixed;
+    background-color: blue;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 100%;
+}
+

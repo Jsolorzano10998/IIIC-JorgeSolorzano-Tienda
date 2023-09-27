@@ -4,11 +4,54 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
 */
 
 header{
-    position: fixed;
     background-color: blue;
-    top: 0;
-    left: 0;
-    height: 80px;
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 18px;
     width: 100%;
+    height: auto;
 }
 
+nav{
+    background-color: LightGray;
+    position: absolute;
+    top: 10px;
+    left: 16px;
+    font-size: 18px;
+    width: 100%;
+    height: auto;
+}
+
+aside{
+    background-color: MediumSeaGreen;
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    font-size: 18px;
+    width: 100%;
+    height: auto;  
+}
+    
+section{
+    background-color: LightGray;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    width: 100%;
+    height: auto;
+}
+
+footer{
+    background-color: LightGray;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    left: 16px;
+    text-align: center;
+    font-size: 18px;
+    width: 100%;
+    height: auto;
+} 
